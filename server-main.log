@@ -1,0 +1,404 @@
+1.5.2026 01:49:20 [Notification] Server logger started.
+1.5.2026 01:49:20 [Notification] Game Version: v1.21.6 (Stable)
+1.5.2026 01:49:20 [Notification] C# Framework: .net 8.0.26
+1.5.2026 01:49:20 [Notification] Zstd Version: 1.5.7
+1.5.2026 01:49:20 [Notification] Operating System: Windows 10.0.19045.0
+1.5.2026 01:49:20 [Notification] CPU Cores: 20
+1.5.2026 01:49:20 [Notification] CPU: Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz
+1.5.2026 01:49:20 [Notification] Available RAM: 65457 MB
+1.5.2026 01:49:20 [Event] It begins...
+1.5.2026 01:49:20 [Event] Launching server...
+1.5.2026 01:49:20 [Event] It senses...
+1.5.2026 01:49:20 [Event] Server v1.21.6, network v1.21.10, api v1.21.0
+1.5.2026 01:49:20 [Notification] Entering runphase Initialization
+1.5.2026 01:49:20 [Event] Loading configuration...
+1.5.2026 01:49:20 [Notification] Entering runphase Configuration
+1.5.2026 01:49:21 [Notification] Loading savegame
+1.5.2026 01:49:21 [Notification] Loaded existing save game data. Playstyle: surviveandbuild, Playstyle Lang code: preset-surviveandbuild, WorldType: preset-surviveandbuild
+1.5.2026 01:49:21 [Notification] Savegame %appdata%\VintagestoryData\Saves\ft11111.vcdbs loaded
+1.5.2026 01:49:21 [Notification] World size = 1024000 256 1024000
+1.5.2026 01:49:21 [Notification] Start discovering assets
+1.5.2026 01:49:21 [Notification] Found 1 base assets in category blocktypes
+1.5.2026 01:49:21 [Notification] Found 0 base assets in category itemtypes
+1.5.2026 01:49:21 [Notification] Found 32 base assets in category lang
+1.5.2026 01:49:21 [Notification] Found 0 base assets in category patches
+1.5.2026 01:49:21 [Notification] Found 24 base assets in category config
+1.5.2026 01:49:21 [Notification] Found 0 base assets in category worldproperties
+1.5.2026 01:49:21 [Notification] Found 49 base assets in category sounds
+1.5.2026 01:49:21 [Notification] Found 230 base assets in category shapes
+1.5.2026 01:49:21 [Notification] Found 176 base assets in category textures
+1.5.2026 01:49:21 [Notification] Found 0 base assets in category recipes
+1.5.2026 01:49:21 [Notification] Found 0 base assets in category worldgen
+1.5.2026 01:49:21 [Notification] Found 3 base assets in category entities
+1.5.2026 01:49:21 [Notification] Found 515 base assets in total
+1.5.2026 01:49:21 [Event] Building assets...
+1.5.2026 01:49:21 [Notification] Entering runphase LoadAssets
+1.5.2026 01:49:21 [Notification] Will search the following paths for mods:
+1.5.2026 01:49:21 [Notification]     B:\Games\Vintagestory\Mods
+1.5.2026 01:49:21 [Notification]     %appdata%\VintagestoryData\Mods
+1.5.2026 01:49:21 [Notification] Found 15 mods (0 disabled)
+1.5.2026 01:49:21 [Notification] Mods, sorted by dependency: jsonpatcheslib, overhaullib, primitivesurvival, game, vsimgui, combatoverhaul, configlib, greetmerpmod, hydrateordiedrate, rpchar, rpskills, rubberbandaid, creative, survival, armory
+1.5.2026 01:49:21 [Notification] Instantiated 151 mod systems from 15 enabled mods
+1.5.2026 01:49:22 [Notification] External Origins in load order: modorigin@B:\Games\Vintagestory\assets\creative\, modorigin@B:\Games\Vintagestory\assets\survival\, mod@jsonpatcheslib_1.3.1.zip, mod@overhaullib_1.21.0.zip, mod@primitivesurvival_4.0.3.zip, mod@vsimgui_1.1.16.zip, mod@combatoverhaul_0.16.16.zip, mod@GreetMeRP v1.4.7.zip, mod@hydrateordiedrate_2.3.8.zip, mod@RPChar 1.6.6 indev.zip, mod@RPSkills, mod@armory_1.10.2.zip
+1.5.2026 01:49:22 [Notification] Found 646 external assets in category blocktypes
+1.5.2026 01:49:22 [Notification] Found 377 external assets in category itemtypes
+1.5.2026 01:49:22 [Notification] Found 42 external assets in category lang
+1.5.2026 01:49:22 [Notification] Found 66 external assets in category patches
+1.5.2026 01:49:22 [Notification] Found 172 external assets in category config
+1.5.2026 01:49:22 [Notification] Found 25 external assets in category worldproperties
+1.5.2026 01:49:22 [Notification] Found 583 external assets in category sounds
+1.5.2026 01:49:22 [Notification] Found 5913 external assets in category shapes
+1.5.2026 01:49:22 [Notification] Found 8121 external assets in category textures
+1.5.2026 01:49:22 [Notification] Found 508 external assets in category recipes
+1.5.2026 01:49:22 [Notification] Found 589 external assets in category worldgen
+1.5.2026 01:49:22 [Notification] Found 95 external assets in category entities
+1.5.2026 01:49:22 [Notification] Found 81 external assets in category compatibility
+1.5.2026 01:49:22 [Notification] Found 29 external assets in category jsonpatches
+1.5.2026 01:49:22 [Notification] Reloaded lang file with mod assets
+1.5.2026 01:49:22 [Event] Loaded mods:
+'jsonpatcheslib'	'1.3.1'	'JSON Patches lib'	'Maltiez'	'jsonpatcheslib_1.3.1.zip'
+'overhaullib'	'1.21.0'	'Overhaul Library'	'Maltiez'	'overhaullib_1.21.0.zip'
+'primitivesurvival'	'4.0.3'	'Primitive Survival'	'SpearAndFang'	'primitivesurvival_4.0.3.zip'
+'game'	'1.21.6'	'Essentials'	'Tyron'	'VSEssentials.dll'
+'vsimgui'	'1.1.16'	'Dear ImGui'	'Maltiez'	'vsimgui_1.1.16.zip'
+'combatoverhaul'	'0.16.16'	'Combat Overhaul'	'Maltiez'	'combatoverhaul_0.16.16.zip'
+'configlib'	'1.10.14'	'Config lib'	'Maltiez, The Insanity God'	'configlib_1.10.14.zip'
+'greetmerpmod'	'1.4.4'	'Greet Me RP'	'Halenx'	'GreetMeRP v1.4.7.zip'
+'hydrateordiedrate'	'2.3.8'	'Hydrate Or Diedrate'	'Chronolegionnaire, Nightingale33, TheInsanityGod'	'hydrateordiedrate_2.3.8.zip'
+'rpchar'	'0.3.10'	'RPChar'	'Thizb'	'RPChar 1.6.6 indev.zip'
+'rpskills'	'0.2.0'	'RPSkills'	'Thizb'	'RPSkills'
+'rubberbandaid'	'1.0.1'	'Rubberbandaid'	'Chronolegionnaire'	'rubberbandaid_1.0.1.zip'
+'creative'	'1.21.6'	'Creative Mode'	'Tyron'	'VSCreativeMod.dll'
+'survival'	'1.21.6'	'Survival Mode'	'Tyron'	'VSSurvivalMod.dll'
+'armory'	'1.10.2'	'Combat Overhaul : Armory'	'Maltiez, Corat'	'armory_1.10.2.zip'
+1.5.2026 01:49:22 [Event] started 'Primitive Survival' mod
+1.5.2026 01:49:22 [Notification] [RPChar] 0.7.0 loading on Server
+1.5.2026 01:49:23 [Notification] [Config lib] Configs loaded: 4
+1.5.2026 01:49:23 [Notification] Compatibility lib: 7 assets added, 0 assets replaced.
+1.5.2026 01:49:25 [Notification] JsonPatch Loader: 409 patches total, successfully applied 409 patches, unmet conditions on 132 patches, no errors
+1.5.2026 01:49:26 [Event] It remembers...
+1.5.2026 01:49:27 [Notification] Loaded 4494 unique items
+1.5.2026 01:49:27 [Event] All that came before...
+1.5.2026 01:49:31 [Notification] Loaded 25799 unique blocks
+1.5.2026 01:49:31 [Notification] Loaded 847 unique entities
+1.5.2026 01:49:31 [Notification] Loaded 12 entity tags, 4 item tags and 1 block tags from 'game' domain
+1.5.2026 01:49:31 [Notification] BlockLoader: Entities, Blocks and Items loaded
+1.5.2026 01:49:31 [Event] Remapping blocks and items...
+1.5.2026 01:49:31 [Event] 16 cooking recipes loaded
+1.5.2026 01:49:31 [Event] Taste and smell...
+1.5.2026 01:49:32 [Event] 1317 crafting recipes loaded from 344 files
+1.5.2026 01:49:32 [Event] Grand inventions...
+1.5.2026 01:49:32 [Event] 9 metal alloys loaded
+1.5.2026 01:49:32 [Event] Glimmers in the soil...
+1.5.2026 01:49:32 [Event] 364 smithing recipes loaded
+1.5.2026 01:49:32 [Event] Burning sparks...
+1.5.2026 01:49:32 [Event] 97 clay forming recipes loaded
+1.5.2026 01:49:32 [Event] Molded forms...
+1.5.2026 01:49:32 [Event] 72 knapping recipes loaded
+1.5.2026 01:49:32 [Event] Simple tools...
+1.5.2026 01:49:32 [Event] 200 barrel recipes loaded
+1.5.2026 01:49:32 [Notification] Entering runphase AssetsFinalize
+1.5.2026 01:49:33 [Event] Server assets loaded, parsed, registered and finalized
+1.5.2026 01:49:33 [Event] Initialising systems...
+1.5.2026 01:49:33 [Notification] Entering runphase LoadGamePre
+1.5.2026 01:49:33 [Notification] Reloaded 19 weather patterns, 5 wind patterns and 5 weather events
+1.5.2026 01:49:33 [Notification] [GreetMeRP] Server map data patch applied. Player pins hidden.
+1.5.2026 01:49:33 [Notification] [GreetMeRP] Server system started.
+1.5.2026 01:49:33 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:49:33 [Notification] [RPChar] compat: RPSkills detected, per-slot skill XP enabled.
+1.5.2026 01:49:33 [Notification] [RPChar] compat: bound to RPSkills.RefreshSkillEffects.
+1.5.2026 01:49:33 [Notification] [RPChar] compat: HydrateOrDiedrate detected, per-slot thirst/heat/encumbrance enabled.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'cooking' (Cooking) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'defense' (Defense) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'farming' (Farming) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'hunting' (Hunting) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'melee' (Melee) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'mining' (Mining) — 11 rewards, 3 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'ranged' (Ranged) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'smithing' (Smithing) — 6 rewards, 1 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'tailoring' (Tailoring) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] loaded skill 'woodworking' (Woodworking) — 11 rewards, 0 XP sources.
+1.5.2026 01:49:33 [Notification] [RPSkills] MiningXPSource registered (stone=True, surface=True, ore=True).
+1.5.2026 01:49:33 [Notification] [RPSkills] SmithingXPSource: 4 explicit recipe requirements, 7 metal default fallbacks, anvil_finish=True.
+1.5.2026 01:49:33 [Notification] [RPSkills] Harmony patches applied.
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Datastructures.SyncedTreeAttribute.MarkPathDirty
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockLiquidContainerBase.TryFillFromBlock
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockLiquidContainerBase.OnGroundIdle
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.Server.ServerSystemSupplyChunks.updateNeighboursLoadedFlags
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityBehaviorHunger.OnEntityReceiveSaturation
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemWearable.GetHeldItemInfo
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemWearable.ensureConditionExists
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemWearable.GetMergableQuantity
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockCookedContainer.GetHeldItemInfo
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockCrock.GetHeldItemInfo
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockMeal.tryFinishEatMeal
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockMeal.GetHeldItemInfo
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.CollectibleObject.GetHeldItemInfo
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockLiquidContainerBase.tryEatStop
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.CollectibleObject.tryEatStop
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockCookingContainer.DoSmelt
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.CharacterExtraDialogs.ComposeStatsGui
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.CharacterExtraDialogs.UpdateStats
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Client.DrunkPerceptionEffect.OnBeforeGameRender
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Client.DrunkPerceptionEffect.ApplyToFpHand
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Client.DrunkPerceptionEffect.ApplyToTpPlayer
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Client.DrunkPerceptionEffect.NowActive
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.ServerMods.GenPonds.OnChunkColumnGen
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemProspectingPick.GenProbeResults
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.PropickReading.ToHumanReadable
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemProspectingPick.PrintProbeResults
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.ItemProspectingPick.ProbeBlockNodeMode
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.AiTaskEidolonSlam+<>c__DisplayClass20_0.<ContinueExecute>b__0
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.ClientAnimator.calculateMatrices
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.InventoryBase.DidModifyItemSlot
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.Animation.GenerateFrame
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.ClientAnimator.LoadPosesAndAttachmentPoints
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.EntityBehaviorPassivePhysics.MotionAndCollision
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityPlayerShapeRenderer.DoRender3DOpaque
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityPlayerShapeRenderer.getReadyShader
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.Common.PlayerInventoryNetworkUtil.UpdateFromPacket
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.Common.InventoryNetworkUtil.UpdateFromPacket
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.Common.InventoryNetworkUtil.UpdateFromPacket
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.Common.InventoryNetworkUtil.UpdateFromPacket
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.AnimationManager.OnClientFrame
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityPlayerShapeRenderer.smoothCameraTurning
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityBehaviorHealth.OnFallToGround
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.BagInventory.ReloadBagInventory
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.EntityPlayer.get_LightHsv
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.API.Common.BagInventory.SaveSlotIntoBag
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BehaviorHealingItem.OnHeldInteractStart
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityShapeRenderer.RenderHeldItem
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityShapeRenderer.DoRender3DOpaque
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.EntityShapeRenderer.BeforeRender
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.WorldMapManager.SendMapDataToClient
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockEntityAnvil.OnReceivedClientPacket
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockEntityAnvil.TryPut
+1.5.2026 01:49:33 [Notification] [RPSkills] [DIAG] Harmony has patched: Vintagestory.GameContent.BlockEntityAnvil.CheckIfFinished
+1.5.2026 01:49:33 [Notification] [RPSkills] server initialized with 10 skill definitions.
+1.5.2026 01:49:33 [Notification] Started 125 systems on Server:
+1.5.2026 01:49:33 [Notification]     Mod 'VSEssentials.dll' (game):
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.Core
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.EntityPartitioning
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ErrorReporter
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
+1.5.2026 01:49:33 [Notification]         FluffyClouds.FluffyCloudsModSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.Essentials.PathfindSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.Essentials.PathFindDebug
+1.5.2026 01:49:33 [Notification]         Vintagestory.Essentials.PathfindingAsync
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.JsonExport
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.ModBasicBlocksLoader
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.AiRuntimeConfig
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemSyncHarvestableDropsToClient
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemEmotes
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.LeafBlockDecay
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.POIRegistry
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.RoomRegistry
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.WeatherSystemServer
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.WorldMapManager
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.LoadColorMaps
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ClothManager
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GridRecipeLoader
+1.5.2026 01:49:33 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenTerra
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenSnowLayer
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenTerraPostProcess
+1.5.2026 01:49:33 [Notification]         Vintagestory.Systems.StoryLockableDoor
+1.5.2026 01:49:33 [Notification]         Vintagestory.Client.NoObf.StoryGenFailedSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.UpgradeTasks
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.ChiselBlockBulkSetMaterial
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.NpcControl
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenMaps
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenRockStrataNew
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenHotSprings
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenCreatures
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemExplosionAffectedStability
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.MyceliumSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModsystemButterflySpawnCondsExtra
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemGliding
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemSwoopDev
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.Timeswitch
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ClutterBookshelfUtil
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemResoArchiveCommands
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.StoryStructuresSpawnConditions
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemNPCHairStyling
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemSkinnableAdditions
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemVillagerDebug
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemAuction
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.Core
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemBoatingSoundAndRatlineStamina
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.CharacterSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.VariablesModSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModsystemElevator
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ActivityModSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ActivityEditorSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.FruitingSystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemTutorial
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemCorpseReturnTeleporter
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemNightVision
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.TobiasTeleporter
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModJournal
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModLootRandomizer
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemEntityOwnership
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemRifts
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSleeping
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.TeleporterManager
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModTemperature
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.SystemTemporalStability
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenDungeons
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenDeposits
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.GenStoryStructures
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenCaves
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenStructures
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.WgenCommands
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenDevastationLayer
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenBlockLayers
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenPonds
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenStructuresPosPass
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenVegetationAndPatches
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenRivulets
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenLightSurvival
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.RecipeLoader
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemFireFromLightning
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemOreMap
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemSnowballs
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.HumanoidOutfits
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.ModSystemDevastationEffects
+1.5.2026 01:49:33 [Notification]         Vintagestory.GameContent.DisableRecipeRegisteringSystem
+1.5.2026 01:49:33 [Notification]     Mod 'VSCreativeMod.dll' (creative):
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.Core
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenBlockLayersFlat
+1.5.2026 01:49:33 [Notification]         Vintagestory.ServerMods.GenLightCreative
+1.5.2026 01:49:33 [Notification]     Mod 'configlib_1.10.14.zip' (configlib):
+1.5.2026 01:49:33 [Notification]         ConfigLib.ConfigLibModSystem
+1.5.2026 01:49:33 [Notification]     Mod 'jsonpatcheslib_1.3.1.zip' (jsonpatcheslib):
+1.5.2026 01:49:33 [Notification]         JsonPatchLib.JsonPatchLibSystem
+1.5.2026 01:49:33 [Notification]     Mod 'overhaullib_1.21.0.zip' (overhaullib):
+1.5.2026 01:49:33 [Notification]         CombatOverhaul.FueledItemSystem
+1.5.2026 01:49:33 [Notification]         CombatOverhaul.LogStuff
+1.5.2026 01:49:33 [Notification]         CombatOverhaul.CombatOverhaulSystem
+1.5.2026 01:49:33 [Notification]         CombatOverhaul.CombatOverhaulAnimationsSystem
+1.5.2026 01:49:33 [Notification]     Mod 'primitivesurvival_4.0.3.zip' (primitivesurvival):
+1.5.2026 01:49:33 [Notification]         PrimitiveSurvival.ModSystem.PrimitiveSurvivalSystem
+1.5.2026 01:49:33 [Notification]         PrimitiveSurvival.ModSystem.TreeHollows
+1.5.2026 01:49:33 [Notification]     Mod 'combatoverhaul_0.16.16.zip' (combatoverhaul):
+1.5.2026 01:49:33 [Notification]         CombatOverhaul.CombatOverhaulAdditionalSystem
+1.5.2026 01:49:33 [Notification]     Mod 'GreetMeRP v1.4.7.zip' (greetmerpmod):
+1.5.2026 01:49:33 [Notification]         GreetMeRP.GreetMeRPServerSystem
+1.5.2026 01:49:33 [Notification]     Mod 'RPChar 1.6.6 indev.zip' (rpchar):
+1.5.2026 01:49:33 [Notification]         RPChar.RPCharServerSystem
+1.5.2026 01:49:33 [Notification]     Mod 'RPSkills' (rpskills):
+1.5.2026 01:49:33 [Notification]         RPSkills.RPSkillsSystem
+1.5.2026 01:49:33 [Notification]     Mod 'rubberbandaid_1.0.1.zip' (rubberbandaid):
+1.5.2026 01:49:33 [Notification]         Rubberbandaid.RubbebandaidModSystem
+1.5.2026 01:49:33 [Notification]     Mod 'hydrateordiedrate_2.3.8.zip' (hydrateordiedrate):
+1.5.2026 01:49:33 [Notification]         HydrateOrDiedrate.HydrateOrDiedrateModSystem
+1.5.2026 01:49:33 [Event] 52 traits loaded from 2 files
+1.5.2026 01:49:33 [Event] 6 classes loaded from 1 files
+1.5.2026 01:49:34 [Notification] [GreetMeRP] Loaded greet data for 0 player(s).
+1.5.2026 01:49:34 [Notification] Server map set
+1.5.2026 01:49:34 [Event] A world unbroken...
+1.5.2026 01:49:34 [Notification] Entering runphase GameReady
+1.5.2026 01:49:34 [Notification] Entering runphase WorldReady
+1.5.2026 01:49:34 [Event] The center unfolding...
+1.5.2026 01:49:34 [Event] Starting world generators...
+1.5.2026 01:49:35 [Notification] Reloaded 35 tree generators
+1.5.2026 01:49:35 [Event] Loading 7x7x8 spawn chunks...
+1.5.2026 01:49:35 [Event] 0% (49 in queue)
+1.5.2026 01:49:35 [Event] The carved mountains...
+1.5.2026 01:49:36 [Event] Begin game ticking...
+1.5.2026 01:49:36 [Event] ... it calls to you
+1.5.2026 01:49:36 [Notification] Entering runphase RunGame
+1.5.2026 01:49:36 [Notification] Successfully loaded 1 waypoints
+1.5.2026 01:49:36 [Notification] Starting server threads
+1.5.2026 01:49:36 [Event] Dedicated Server now running on Port 42420 and all ips!
+1.5.2026 01:49:36 [Event] Return again.
+1.5.2026 01:49:36 [Notification] Please be aware that as of 1.20, servers default configurations have changed - servers no longer register themselves to the public servers list and are invite-only (whitelisted) out of the box. If you desire so, you can enable server advertising with '/serverconfig advertise on' and disable the whitelist mode with '/serverconfig whitelistmode off'
+1.5.2026 01:49:36 [Notification] All clients disconnected, pausing game calendar.
+1.5.2026 01:49:45 [Warning] Server overloaded. A tick took 585ms to complete.
+1.5.2026 01:49:46 [Notification] A Client attempts connecting via TCP on [::ffff:127.0.0.1]:56794, assigning client id 1
+1.5.2026 01:49:46 [Notification] UDP: Client 1 connected via: [::ffff:127.0.0.1]:58202
+1.5.2026 01:49:47 [Notification] Client 1 uid saPYLhF5B8Es2pK0FQvtuTyZ attempting identification. Name: halenx
+1.5.2026 01:49:47 [Notification] Delayed join, need to load one spawn chunk first.
+1.5.2026 01:49:47 [Notification] Sending server identification with remap False.  Server control privilege is True
+1.5.2026 01:49:47 [Notification] Placing halenx at 511986.96588134766 128.00006103515625 512036.8942871094
+1.5.2026 01:50:02 [Event] halenx [::ffff:127.0.0.1]:56794 joins.
+1.5.2026 01:50:02 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:50:02 [Notification] [RPChar] player halenx entered picker (brandNew=False, pos=(511987.0,128.0,512036.9)).
+1.5.2026 01:50:03 [Notification] A client reconnected, resuming game calendar.
+1.5.2026 01:50:05 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:50:05 [Notification] [RPChar] halenx loaded character 'common' (class=commoner) from slot 0.
+1.5.2026 01:50:11 [Notification] [RPSkills] [DIAG] TryPut: code=ingot-iron required=50 current=1
+1.5.2026 01:50:11 [Notification] [RPSkills] [DIAG] TryPut: BLOCKED, __result=false
+1.5.2026 01:50:22 [Notification] Client 1 disconnected: 
+1.5.2026 01:50:22 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:50:22 [Notification] Last player disconnected, compacting large object heap...
+1.5.2026 01:50:22 [Notification] UDP: client disconnected halenx
+1.5.2026 01:50:22 [Event] Player halenx left.
+1.5.2026 01:50:22 [Notification] All clients disconnected, pausing game calendar.
+1.5.2026 01:50:22 [Event] Client 1 disconnected.
+1.5.2026 01:53:30 [Notification] A Client attempts connecting via TCP on [::ffff:127.0.0.1]:56814, assigning client id 2
+1.5.2026 01:53:30 [Notification] UDP: Client 2 connected via: [::ffff:127.0.0.1]:65493
+1.5.2026 01:53:30 [Notification] Client 2 uid saPYLhF5B8Es2pK0FQvtuTyZ attempting identification. Name: halenx
+1.5.2026 01:53:30 [Notification] Delayed join, need to load one spawn chunk first.
+1.5.2026 01:53:30 [Notification] Sending server identification with remap False.  Server control privilege is True
+1.5.2026 01:53:30 [Notification] Placing halenx at 511987.4016723633 128.00006103515625 512037.55059814453
+1.5.2026 01:53:43 [Event] halenx [::ffff:127.0.0.1]:56814 joins.
+1.5.2026 01:53:43 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:53:43 [Notification] [RPChar] player halenx entered picker (brandNew=False, pos=(511987.4,128.0,512037.6)).
+1.5.2026 01:53:43 [Notification] A client reconnected, resuming game calendar.
+1.5.2026 01:53:45 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:53:45 [Notification] [RPChar] halenx loaded character 'common' (class=commoner) from slot 0.
+1.5.2026 01:53:59 [Notification] [RPSkills] [DIAG] TryPut: code=ingot-iron required=50 current=1
+1.5.2026 01:53:59 [Notification] [RPSkills] [DIAG] TryPut: BLOCKED, __result=false
+1.5.2026 01:54:12 [Notification] Client 2 disconnected: 
+1.5.2026 01:54:12 [Notification] [RPChar] indexed 2 taken character name(s).
+1.5.2026 01:54:12 [Notification] Last player disconnected, compacting large object heap...
+1.5.2026 01:54:12 [Notification] UDP: client disconnected halenx
+1.5.2026 01:54:12 [Event] Player halenx left.
+1.5.2026 01:54:12 [Notification] All clients disconnected, pausing game calendar.
+1.5.2026 01:54:12 [Event] Client 2 disconnected.
+1.5.2026 01:54:22 [Notification] Server ticking has been suspended
+1.5.2026 01:54:22 [Notification] Autosaving game world. Notifying mods, then systems of save...
+1.5.2026 01:54:22 [Notification] [GreetMeRP] Data saved.
+1.5.2026 01:54:22 [Notification] Defragmented listener lists
+1.5.2026 01:54:22 [Event] Mods and systems notified, now saving everything...
+1.5.2026 01:54:22 [Event] It pauses.
+1.5.2026 01:54:22 [Event] Will do offthread savegamedata saving...
+1.5.2026 01:54:22 [Event] One last gaze...
+1.5.2026 01:54:22 [Event] Saved player world data...
+1.5.2026 01:54:22 [Event] Saved map regions...
+1.5.2026 01:54:22 [Event] Then all goes quiet...
+1.5.2026 01:54:22 [Event] Saved map chunks...
+1.5.2026 01:54:22 [Event] The waters recede...
+1.5.2026 01:54:22 [Event] World saved! Saved 0 chunks, 0 mapchunks, 4 mapregions.
+1.5.2026 01:54:22 [Event] It sighs...
+1.5.2026 01:54:22 [Notification] Server ticking has been resumed
+1.5.2026 01:54:22 [Event] Saved 300 chunks...
+1.5.2026 01:54:22 [Event] Saved 600 chunks...
+1.5.2026 01:54:22 [Event] Saved 900 chunks...
+1.5.2026 01:54:22 [Event] Offthread save of 1184 chunks done.
+1.5.2026 01:54:22 [Notification] Offthread save of 0 generating chunks done.
+1.5.2026 01:54:22 [Event] Offthread save of 18 map chunks done.
+1.5.2026 01:54:22 [Event] Offthread save of savegame done.
